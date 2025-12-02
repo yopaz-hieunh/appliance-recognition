@@ -1,0 +1,14 @@
+fastapi>=0.95.0
+uvicorn[standard]>=0.21.0
+
+# DB
+sqlalchemy>=1.4
+alembic>=1.10 
+
+# Pydantic settings
+pydantic>=1.10.7
+pydantic-settings>=0.4.2
+python-multipart>=0.0.6
+
+# Google Gemini API
+google-genai
